@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá👋
 
-<!--
-**GlyfitonDev/GlyfitonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bio
 
-Here are some ideas to get you started:
+### Eu sou um completo iniciante no mundo da programação, ultimamente trabalhava como auxiliar administrativo e há um tempo tinha essa curiosidade sobre/vontade de ingressar nesse ramo de TI. Posso dizer que ainda estou me descobrindo, pesquisando sobre as linguagens para encontrar e definir exatamente o que quero. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlyfitonDev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Projetos 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GlyfitonDev&repo=Glyfitongit.github.io
+)](https://github.com/anuraghazra/github-readme-stats)
+
